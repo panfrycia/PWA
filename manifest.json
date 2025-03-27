@@ -7,7 +7,7 @@
     "start_url": "/PWA/",
     "icons": [
         {
-            "src": "/ikona.png",
+            "src": "./ikona.png",
             "sizes": "512x512",
             "type": "image/png"
         }
